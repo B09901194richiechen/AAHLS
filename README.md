@@ -6,3 +6,5 @@ suffix "_src" means the file is as same as the file in bol-edu.
 lab1_src reference: https://github.com/bol-edu/course-lab_1
 
 lab2_src reference: https://github.com/bol-edu/course-lab_2
+
+lab5_src reference: https://github.com/bol-edu/caravel-soc_fpga-lab/tree/main/labi
