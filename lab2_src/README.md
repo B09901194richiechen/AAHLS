@@ -1,3 +1,7 @@
+# Update
+report see https://hackmd.io/VYTniAWDSi-V5Mspnf5LxA
+
+
 # course-lab_2
 Board: PYNQ-Z2/KV260, Vitis version: 2022.1 <br />
 PYNQ-Z2 SD card image: v2.7 <br />
